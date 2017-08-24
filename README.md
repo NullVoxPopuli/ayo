@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ayo/ayo.svg?style=flat&branch=master)](https://travis-ci.org/ayo/ayo?branch=master)
 
-_(Note: rayovac.js is forked from [rayovac.js][]. Currently, a lot of the documentation
-still points towards the rayovac.js repository.)_
+_(Note: rayovac.js is forked from ayo.js.)_
 
 rayovac.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. rayovac.js
 uses an event-driven, non-blocking I/O model that makes it lightweight and

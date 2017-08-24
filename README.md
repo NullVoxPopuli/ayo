@@ -1,6 +1,7 @@
 # rayovac.js
 
 [![Build Status](https://travis-ci.org/ayo/ayo.svg?style=flat&branch=master)](https://travis-ci.org/ayo/ayo?branch=master)
+![](./rayovac.png)
 
 _(Note: rayovac.js is forked from ayo.js.)_
 

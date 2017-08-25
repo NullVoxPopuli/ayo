@@ -5,6 +5,9 @@
 
 _(Note: rayovac.js is forked from ayo.js.)_
 
+![alt text](rayovac.png)
+
+
 rayovac.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. rayovac.js
 uses an event-driven, non-blocking I/O model that makes it lightweight and
 efficient. The rayovac.js package ecosystem, [npm][], is the largest ecosystem of
